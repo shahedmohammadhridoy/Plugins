@@ -1,2 +1,2 @@
-https://sweetalert2.github.io/
+https://sweetalert2.github.io/<br>
 https://select2.org/
